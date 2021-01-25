@@ -9,9 +9,6 @@
 
 [linkedin]: https://www.linkedin.com/in/pasindu-chanusha-a70957189/
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduChanusha&layout=compact)
-## Hi there 👋
-
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PasinduChanusha)](https://github.com/LordDashMe/github-contribution-stats/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduChanusha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
