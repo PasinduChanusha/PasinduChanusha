@@ -10,7 +10,7 @@
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PasinduChanusha)](https://github.com/LordDashMe/github-contribution-stats/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduChanusha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduChanusha&layout=compact)](https://github.com/PasinduChanusha/github-readme-stats)
 
 ![PasinduChanusha's github stats](https://github-readme-stats.vercel.app/api?username=PasinduChanusha&show_icons=true)
 
@@ -31,5 +31,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PasinduChanusha)](https://github.com/PasinduChanusha/github-contribution-stats/)
 
