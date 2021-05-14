@@ -14,7 +14,7 @@
 
 
 - 🔭 I’m currently working on buiding our own MVC
-- 🌱 I’m currently learning jQuery
+- 🌱 I’m currently learning ReactJS
 
 <!--
 **PasinduChanusha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
