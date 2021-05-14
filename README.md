@@ -12,7 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduChanusha&layout=compact)](https://github.com/PasinduChanusha/github-readme-stats)
 
-![PasinduChanusha's github stats](https://github-readme-stats.vercel.app/api?username=PasinduChanusha&show_icons=true)
 
 - 🔭 I’m currently working on buiding our own MVC
 - 🌱 I’m currently learning jQuery
