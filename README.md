@@ -15,3 +15,6 @@
 
 - 🔭 I’m currently working on buiding our own MVC
 - 🌱 I’m currently learning ReactJS
+
+![Pasindus' github stats](https://github-readme-stats.vercel.app/api?username=PasinduChanusha&show_icons=true&theme=dracula)<br/>
+<!-- <img align="left" alt="GIF" height="300px" src="https://github.com/PasinduChanusha/PasinduChanusha/blob/master/assets/giphy.gif">-->
