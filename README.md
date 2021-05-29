@@ -8,7 +8,7 @@
 
 [linkedin]: https://www.linkedin.com/in/pasindu-chanusha-a70957189/
 
-![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PasinduChanusha)
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PasinduChanusha&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduChanusha&layout=compact&theme=radical)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduChanusha&layout=compact)](https://github.com/PasinduChanusha/github-readme-stats) -->
