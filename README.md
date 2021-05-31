@@ -22,7 +22,8 @@
 [twitter]: https://twitter.com/PasinduChanusha
 [linkedin]: https://www.linkedin.com/in/pasindu-chanusha-a70957189/
 [instagram]: https://www.instagram.com/pasinduchanusha/
-
+<a href="mailto:pasinduchanusha@gmail.com"><img height="30" src="https://github.com/PasinduChanusha/PasinduChanusha/blob/main/images/icons8-gmail-48.png"></a>&nbsp;&nbsp;
+</p>
 
 <!-- ![Pasindus' github stats](https://github-readme-stats.vercel.app/api?username=PasinduChanusha&show_icons=true&theme=dracula)<br/> -->
 <!-- <img align="left" alt="GIF" height="300px" src="https://github.com/PasinduChanusha/PasinduChanusha/blob/master/assets/giphy.gif">-->
