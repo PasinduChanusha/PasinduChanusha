@@ -4,6 +4,11 @@
 - 🌱 I’m currently learning Java Script,Python and ReactJS
 - 📚 Working on learning more languages and tools.
 
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PasinduChanusha&layout=compact&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduChanusha&layout=compact&theme=radical)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduChanusha&layout=compact)](https://github.com/PasinduChanusha/github-readme-stats) -->
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -17,14 +22,6 @@
 [twitter]: https://twitter.com/PasinduChanusha
 [linkedin]: https://www.linkedin.com/in/pasindu-chanusha-a70957189/
 [instagram]: https://www.instagram.com/pasinduchanusha/
-
-
-
-![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PasinduChanusha&layout=compact&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduChanusha&layout=compact&theme=radical)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduChanusha&layout=compact)](https://github.com/PasinduChanusha/github-readme-stats) -->
-
 
 
 
