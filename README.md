@@ -4,13 +4,20 @@
 - 🌱 I’m currently learning Java Script,Python and ReactJS
 - 📚 Working on learning more languages and tools.
 
-- 📫 How to reach me:  👔 [linkedin][linkedin]
+### Connect with me:
 
-[linkedin]: https://www.linkedin.com/in/pasindu-chanusha-a70957189/
-[twitter]: https://twitter.com/PasinduChanusha
+[<img align="left" alt="codeSTACKr | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<!-- - 📫 How to reach me:  👔 [linkedin][linkedin] -->
+
 [facebook]: https://www.facebook.com/pasindu.chanusha
-[instagram]: https://www.instagram.com/pasinduchanusha/
+[twitter]: https://twitter.com/PasinduChanusha
 [linkedin]: https://www.linkedin.com/in/pasindu-chanusha-a70957189/
+[instagram]: https://www.instagram.com/pasinduchanusha/
+
 
 
 ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PasinduChanusha&layout=compact&theme=radical)
