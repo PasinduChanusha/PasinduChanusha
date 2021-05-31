@@ -17,12 +17,17 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 
 [facebook]: https://www.facebook.com/pasindu.chanusha
 [twitter]: https://twitter.com/PasinduChanusha
 [linkedin]: https://www.linkedin.com/in/pasindu-chanusha-a70957189/
 [instagram]: https://www.instagram.com/pasinduchanusha/
+[gmail]: pasinduchanusha@gmail.com
 
+<!-- <p align="center">
+<a href="mailto:pasinduchanusha@gmail.com"><img height="30" src="https://github.com/PasinduChanusha/PasinduChanusha/blob/main/Images/icons8-gmail-48.png"></a>&nbsp;&nbsp;
+</p> -->
 
 <!-- ![Pasindus' github stats](https://github-readme-stats.vercel.app/api?username=PasinduChanusha&show_icons=true&theme=dracula)<br/> -->
 <!-- <img align="left" alt="GIF" height="300px" src="https://github.com/PasinduChanusha/PasinduChanusha/blob/master/assets/giphy.gif">-->
