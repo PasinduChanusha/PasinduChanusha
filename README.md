@@ -7,6 +7,11 @@
 - 📫 How to reach me:  👔 [linkedin][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/pasindu-chanusha-a70957189/
+[twitter]: https://twitter.com/PasinduChanusha
+[facebook]: https://www.facebook.com/pasindu.chanusha
+[instagram]: https://www.instagram.com/pasinduchanusha/
+[linkedin]: https://www.linkedin.com/in/pasindu-chanusha-a70957189/
+
 
 ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PasinduChanusha&layout=compact&theme=radical)
 
@@ -14,10 +19,6 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduChanusha&layout=compact)](https://github.com/PasinduChanusha/github-readme-stats) -->
 
 
-[twitter]: https://twitter.com/PasinduChanusha
-[facebook]: https://www.facebook.com/pasindu.chanusha
-[instagram]: https://www.instagram.com/pasinduchanusha/
-[linkedin]: https://www.linkedin.com/in/pasindu-chanusha-a70957189/
 
 
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
