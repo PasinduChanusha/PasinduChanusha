@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java Script,Python and ReactJS
 - 📚 Working on learning more languages and tools.
 - 🔭 I’m currently working on buiding our own MVC
-- 🌱 I’m currently learning ReactJS
+
 
 ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=PasinduChanusha&layout=compact&theme=radical)
 
