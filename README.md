@@ -12,8 +12,8 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduChanusha&layout=compact)](https://github.com/PasinduChanusha/github-readme-stats) -->
 
 ###  Contact me:
-<p align="center">
-<a href="mailto:pasinduchanusha@gmail.com"><img height="30" src="https://github.com/PasinduChanusha/PasinduChanusha/blob/main/Images/icons8-gmail-48.png"></a>
+<p align="left">
+<a href="mailto:pasinduchanusha@gmail.com"><img height="30" src="https://github.com/PasinduChanusha/PasinduChanusha/blob/main/Images/icons8-gmail-48.png"></a>&nbsp;&nbsp;
 </p>
 
 ### 📫 How to reach me:
