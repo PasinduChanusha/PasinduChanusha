@@ -18,10 +18,10 @@
 
 <!-- - 📫 How to reach me:  👔 [linkedin][linkedin] -->
 
-[facebook]: https://www.facebook.com/pasindu.chanusha
-[twitter]: https://twitter.com/PasinduChanusha
-[linkedin]: https://www.linkedin.com/in/pasindu-chanusha-a70957189/
-[instagram]: https://www.instagram.com/pasinduchanusha/
+![facebook]: https://www.facebook.com/pasindu.chanusha
+![twitter]: https://twitter.com/PasinduChanusha
+![linkedin]: https://www.linkedin.com/in/pasindu-chanusha-a70957189/
+![instagram]: https://www.instagram.com/pasinduchanusha/
 
 
 
