@@ -13,7 +13,7 @@
 
 ###  Contact me:
 <p align="center">
-<a href="mailto:pasinduchanusha@gmail.com"><img height="30" src="https://github.com/PasinduChanusha/PasinduChanusha/blob/main/Images/icons8-gmail-48.png"></a>&nbsp;&nbsp;
+<a href="mailto:pasinduchanusha@gmail.com"><img height="30" src="https://github.com/PasinduChanusha/PasinduChanusha/blob/main/Images/icons8-gmail-48.png"></a>
 </p>
 
 ### 📫 How to reach me:
