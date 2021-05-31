@@ -13,6 +13,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduChanusha&layout=compact&theme=radical)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduChanusha&layout=compact)](https://github.com/PasinduChanusha/github-readme-stats) -->
 
+<!-- [website]: https://rusiruabhisheak.com -->
+[twitter]: https://twitter.com/PasinduChanusha
+<!-- [youtube]: https://www.youtube.com/rusiruabhisheak -->
+[facebook]: https://www.facebook.com/pasindu.chanusha
+[instagram]: https://www.instagram.com/pasinduchanusha/
+[linkedin]: https://www.linkedin.com/in/pasindu-chanusha-a70957189/
+<!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0  -->
+
 
 - 🔭 I’m currently working on buiding our own MVC
 - 🌱 I’m currently learning ReactJS
