@@ -22,6 +22,7 @@
 [twitter]: https://twitter.com/PasinduChanusha
 [linkedin]: https://www.linkedin.com/in/pasindu-chanusha-a70957189/
 [instagram]: https://www.instagram.com/pasinduchanusha/
+<p align="center">
 <a href="mailto:pasinduchanusha@gmail.com"><img height="30" src="https://github.com/PasinduChanusha/PasinduChanusha/blob/main/images/icons8-gmail-48.png"></a>&nbsp;&nbsp;
 </p>
 
