@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Pasindu. Thanks for visiting my GitHub
+### Hi there 👋 I'm Pasindu,
 
 - 🎓 I’m currently studying Computer Science at University of Colombo School of Computing
 - 🌱 I’m currently learning Java Script,Python and ReactJS
